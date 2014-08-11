@@ -1,0 +1,112 @@
+ body {
+	margin:0;
+	padding:0;
+	border:0;			/* This removes the border around the viewport in old versions of IE */
+	width:100%;
+	background:#fff;
+	min-width:600px;    	/* Minimum width of layout - remove line if not required */
+					/* The min-width property does not work in old versions of Internet Explorer */
+	font-size:90%;
+	background-color:#f7f7f7;
+}
+ #container{
+ width:985px;
+ margin:0 auto;
+ background-color:#ffffff;
+ }
+ 
+ #left
+  {
+   width: 200px;
+   height:640px;
+   float: left;
+   background-color:#efefef;
+ }
+
+ #logoDiv{
+ padding:0px;
+ width:200px;
+ height:200px;
+ }
+ 
+#right
+{
+    margin-left: 200px; /* Change this to whatever the width of your left column is*/
+}
+
+.clear
+{
+	clear: both;
+}
+
+.topBar{
+	width:785px;
+	height:51px;
+	background-color:#ffffff;
+	background: url(../menu_assets/images/topbg.png) 0 0px;
+	background-repeat:no-repeat;
+}
+
+.postDiv{
+width:700px;
+height:470px;
+border-radius:10px;
+background-color:#ffffff;
+margin-left:40px;
+margin-top:20px;
+border:1px;
+padding:0px;
+-moz-box-shadow: 0 0 5px 0px #ededed;
+-webkit-box-shadow: 0 0 5px 0px #ededed;
+box-shadow: 0 0 5px 0px #ededed;
+}
+#postMenuHeader{
+margin:0px;
+padding:0px;
+font-size:20px
+}
+
+#postMenuHeader li{
+list-style:none;
+padding-right:100px;
+float:left;
+font-size:20px;
+color:#333333;
+}
+
+#footerDiv{
+	width:785px;
+	height:51px;
+	background-color:#ffffff;
+	background: url(../menu_assets/images/footerSeperator.png) 0 0px;
+	background-repeat:no-repeat;
+	margin-top:30px;
+        padding:0px;
+}
+
+.approveBtn{
+background-image:url('../image/ApproveGreen.png');
+background-repeat:no-repeat;
+width:16px;
+height:16px;
+border:0px;
+}
+
+.denyBtn{
+
+background-image:url('../image/AbsentRed.png');
+background-repeat:no-repeat;
+width:16px;
+height:16px;
+border:0px;
+}
+
+.postTable{
+border-collapse: collapse;
+}
+
+.postTable td, a,th{
+font-size:16px;
+font-family:"Arial";
+color:#333333;
+}
