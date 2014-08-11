@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>71628F3B-403F-4B17-8D95-55882A71BEEB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>St-Hubert</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B94AF595-CDC2-45E8-985D-AEE8D27CE9C1</key>
+		<string>https://github.com/myriadinteractivemedia/mymobipoints.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ZenCig/St-Hubert.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B94AF595-CDC2-45E8-985D-AEE8D27CE9C1</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/myriadinteractivemedia/mymobipoints.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B94AF595-CDC2-45E8-985D-AEE8D27CE9C1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B94AF595-CDC2-45E8-985D-AEE8D27CE9C1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>mymobipoints</string>
+		</dict>
+	</array>
+</dict>
+</plist>
